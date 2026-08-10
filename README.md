@@ -1,9 +1,17 @@
+# Frontend Moodify
+
+| Image 1 | Image 2 | Image 3 | Image 4 |
+| ------- | ------- | ------- | ------- |
+| <img src="app/src/main/res/drawable/Video-Project-7.gif" /> | <img src="app/src/main/res/drawable/Video-Project-7-1.gif" /> | <img src="app/src/main/res/drawable/Video-Project-7-2 (2).gif" /> | <img src="app/src/main/res/drawable/Video-Project-7-3 (1).gif" /> |
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Frontend
 
 We use Figma for designing the UI/UX of our mobile application, allowing us to create detailed wireframes. For development, we utilize Android Studio as the IDE, paired with Kotlin as the programming language. To handle network requests, we rely on Retrofit as our HTTP client, which simplifies making asynchronous API calls.
 
-<br>
+For more information about the project, please visit the [Project Documentation.](https://github.com/Moodify-Project)
+
 
 ### Built With
 
@@ -14,13 +22,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * ![Glide](https://img.shields.io/badge/Glide-34A853?style=for-the-badge&logo=glide&logoColor=white)
 * ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
-<br>
 
 <!-- Documentation -->
 ## Documentation
+View the project design and UI prototype on Figma:
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps. <a href="https://drive.google.com/drive/folders/1LnGHMsOaQRuqStmXMVjvGk4sQbRZNyPC">Documentation</a>
+[**View Figma Design**](https://www.figma.com/design/vMrccsXKeGJRIQLT9YDKqq/Capstone-Design?node-id=0-1&t=IH3CCJlAwO6bN9ze-1)
+
+
+### Result
 
 | Image 1                                                                                       | Image 2                                                                                       | Image 3                                                                                       | Image 4                                                                                       |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -28,17 +38,6 @@ To get a local copy up and running follow these simple example steps. <a href="h
 | ![Image 5](https://drive.google.com/uc?id=1l3y4mttXheWXfCgDx1RIY1agLFXjffwj)                  | ![Image 6](https://drive.google.com/uc?id=1QVtdYz_zUHPqCVbJpQ7fS5Pw64SX87b8)                  | ![Image 7](https://drive.google.com/uc?id=1PEeVtmrChhTMsfqHdUGaxApQJZSru2y-)                  | ![Image 8](https://drive.google.com/uc?id=1QnJpls_TbpqZ2Kmg16McLxSwnxKOxQcW)                  |
 | ![Image 9](https://drive.google.com/uc?id=1oJ3QakNy84N1K1e6yhZVCkvVuzw779XH)                  | ![Image 10](https://drive.google.com/uc?id=1yMRnaVLCZZmv2TICVhDNYLjzIcncl6fu)                 | ![Image 11](https://drive.google.com/uc?id=1LNIKDq2gMlrGrN7HUJAOCGIxMwvLQ86c)                 | ![Image 12](https://drive.google.com/uc?id=15xE0kTFRZPw6h2H9xcB8ijDKr_8JpQm2)                 |
 
-
-<!-- Thanks -->
-## Thanks
-
-Youtube : [GeekProbin](https://youtu.be/1-aWeVpx9U8?si=MV7eIMMVr96gWLax)
-
-Pexel : [Vlad Bagacian](https://www.pexels.com/photo/lit-bonfire-outdoors-during-nighttime-1368382/)
-
-Pixabay : [Pixabay](https://pixabay.com/id/)
-
-<br>
 
 <!-- CONTRIBUTING -->
 ## Contributing
